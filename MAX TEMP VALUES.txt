@@ -1,0 +1,30 @@
+MAX TEMP VALUES:Interior chip Heat Sink
+
+0-degree slope:  436.661 [K]
+2.5-degree slope:  430.566 [K]
+5-degree slope:  427.658 [K]
+7.5 degree slope:  420.476 [K]
+10-degree slope: 418.274 [K]
+12.5-degree slope:  412.072 [K]
+15-degree slope: 411.008 [K]
+
+MAX TEMP VALUES: Chip
+
+0-degree slope: 436.708 [K]
+2.5-degree slope: 430.613 [K]
+5-degree slope:  427.704 [K]
+7.5 degree slope:  420.522 [K]
+10-degree slope:   418.32 [K]
+12.5-degree slope:  412.117 [K]
+15-degree slope:  411.053 [K]
+
+AVERAGE TEMP VALUES: Chip
+
+0-degree slope:  432.698 [K]
+2.5-degree slope:   426.5 [K]
+5-degree slope:   423.521 [K]
+7.5 degree slope:  416.357 [K]
+10-degree slope:    414.135 [K]
+12.5-degree slope: 407.847 [K]
+15-degree slope:  406.761 [K]
+
