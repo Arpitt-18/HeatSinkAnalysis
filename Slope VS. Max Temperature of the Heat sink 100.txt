@@ -1,0 +1,9 @@
+Slope VS. Max Temperature of the Heat Sink
+
+0 degree - 488.513 K
+2.5 degree - 480.520 K
+5 degree - 467.706 K
+7.5 degree - 459.427 K
+10 degree - 453.667 K
+12.5 degree - 441.173 K
+15 degree - 437.260 K

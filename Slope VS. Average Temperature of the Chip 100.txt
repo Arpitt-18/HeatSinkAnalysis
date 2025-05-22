@@ -1,0 +1,9 @@
+Slope VS. Average Temperature of the Chip 
+
+0 degree - 482.372 K
+2.5 degree - 474.454 K
+5 degree - 461.615 K
+7.5 degree - 455.226 K
+10 degree - 447.565 K
+12.5 degree - 435.035 K
+15 degree - 431.112 K
